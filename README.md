@@ -68,9 +68,9 @@ Building enterprise web applications, business automation & AI-powered solutions
 
 
 
-![Website](https://img.shields.io/badge/Website-ogisetiawan.my.id-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)(ogisetiawan.my.id)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ogi-setiawan-software-engineer)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)(https://github.com/ogisetiawan)
+
+[![Website](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ogisetiawan.my.id/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogi-setiawan-software-enginee)
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)
 ![Email](https://img.shields.io/badge/Email-ogisetiawan21%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)(ogisetiawan21@gmail.com)
